@@ -24,13 +24,14 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
 
 /* navigation links */
 
 #menu {
-    font-size: 110%;
-    letter-spacing: 3px;
+    font-size: 50%;
+    letter-spacing: 4px;
 }
 
 #menu, #logo {
@@ -90,6 +91,7 @@ h1, h2 {
         transform: scale(1.1);
     }
 }
+
 #cover-text {
     font-size: 90%;
     font-family: 'Oswald', sans-serif;
@@ -108,4 +110,30 @@ h1, h2 {
     right: 150px;
 
     position: absolute;
+}
+
+/* meditation */
+
+#meditation {
+    height: 600px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: cornflowerblue;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: paleturquoise;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: aquamarine;
 }
