@@ -13,14 +13,26 @@ This is a website dedicated to promoting mindfulness, meditation, yoga, and over
     - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
     - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Am I Responsive Screenshot](/assets/readme-images/Am-I-Responsive-Screenshot.png)
+![Navigation Screenshot](/assets/readme-images/navigation-bar-my-meditation-website.PNG)
 
+- **Homepage** 
 
+    - The homepage introduces the concept of meditation and provides a brief overview of the website's offerings. 
+    - It offers additional resources to choose from linking other useful meditation, mindfulness and yoga websites. 
+    - The homepage also contains links to all social media platforms linked to My Meditation.
 
-Homepage: The homepage introduces the concept of meditation and provides a brief overview of the website's offerings.
-Sign Up: Users can sign up for a weekly newsletter to receive meditation tips and techniques.
-Gallery: A collection of images showcasing meditation and related practices.
-Additional Resources: The website provides additional resources such as recommended books, videos, and external links for further exploration.
-Responsive Design: The website is designed to be responsive, ensuring optimal viewing and functionality across different devices and screen sizes.
+![HomePage Screenshot](/assets/readme-images/Home-Page-Screenshot.PNG)
+
+- **Gallery** 
+
+    - A collection of images showcasing meditation and related practices.
+
+![Gallery Screenshot](/assets/readme-images/Gallery-Screenshot.PNG)
+
+- **Sign Up** 
+
+    - Users can sign up for a weekly newsletter to receive meditation tips and techniques.
+
+![Sign Up Screenshot](/assets/readme-images/Sign-Up-Screenshot.PNG)
 
 
