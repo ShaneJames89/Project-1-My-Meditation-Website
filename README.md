@@ -35,4 +35,56 @@ This is a website dedicated to promoting mindfulness, meditation, yoga, and over
 
 ![Sign Up Screenshot](/assets/readme-images/Sign-Up-Screenshot.PNG)
 
+# Testing
+
+- I tested that this page works in different browsers: Chrome, Firefox & Safari.
+- I confirmed that the project is repsponsive, looks good and functions on all standard screen sizes using the devtools device toolbar
+- I confirmed that the navigation, header, about us, sign up and contact text are all readable and easy to understand.
+- I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works.
+
+ **Bugs**
+
+##### **Solved bugs**
+
+- When I tried to load images from Gallery on web browser images wouldn't load so I made adjustments to file names which enable images to load correctly.
+- I added hypens in between each words in the file so the images would load correctly.
+
+ **Validator Testing**
+
+ - HTML
+   - No errors were returned when passing through the official W3C validator.
+ - CSS
+   - No errors were found when passing through the official (Jigsaw) validator.
+ - Accessibility
+   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
+
+![Validator Testing Screenshot](/assets/readme-images/Screenshot-Validator-testing.PNG)
+
+**Unfixed Bugs**
+
+No unfixed bugs.
+
+
+
+# Deployment 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab.
+  - From the source section drop-down menu, select the Master Branch.
+  - Once the master branch has been selected, the page provided the link to the completed website.
+
+The live link can be found here - [My Meditation Website](https://shanejames89.github.io/Project-1-My-Meditation-Website/)
+
+# Credits
+
+## Content
+
+- The code to make the social media links,  was taken from the CI Love Running projects. 
+- Some content was taken from the Love Running projects for some Readme sections.
+- The icons in the about/footer section were taken from [Font Awesome](https://fontawesome.com/).
+
+## Media
+
+- All images were taken from [Pexels](https://www.pexels.com/).
+
 
